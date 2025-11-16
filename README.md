@@ -62,19 +62,26 @@ Install image processing toolbox on Matlab
 ### References:
 [1] 
 “Image Processing Toolbox Documentation,” Mathworks.com, 2025. https://in.mathworks.com/help/images/index.html (accessed Nov. 16, 2025). 
+
 [2] 
 Dynamsoft, “Image Processing 101 Chapter 2.2: Image Enhancement,” Dynamsoft Document Imaging Blog, Jun. 10, 2021. https://www.dynamsoft.com/blog/insights/image-processing/image-processing-101-imageenhancement/ 
+
 [3] 
-N. Srivastava, “Diffusion based Image filtering,” E2enetworks.com, Sep. https://www.e2enetworks.com/blog/diffusion-based-image-filtering (accessed Nov. 16, 2025). 
+N. Srivastava, “Diffusion based Image filtering,” E2enetworks.com, Sep. https://www.e2enetworks.com/blog/diffusion-based-image-filtering (accessed Nov. 16, 2025).
+
 [4] 
 05, 2022. T. Malche, “Edge Detection in Image Processing: An Introduction,” Roboflow Blog, Jun. 14, 2024. https://blog.roboflow.com/edge-detection/ 
+
 [5] 
 “ROHINI COLLEGE OF ENGINEERING & TECHNOLOGY EC8093-DIGITAL IMAGE PROCESSING Region Growing Segmentation.” Available: https://www.rcet.org.in/uploads/academics/rohini_48305134656.pdf 
+
 [6] 
 R. C. Gonzalez and R. E. Woods, Digital image processing, 4th ed. New York, NY: Pearson, 2018. 
+
 [7] 
 “Simple oblique or spiral tibial fracture,” Aofoundation.org, https://surgeryreference.aofoundation.org/orthopedic-trauma/pediatric-trauma/tibial-shaft/tibia-simple
 oblique-or-spiral/definition#x-ray (accessed Nov. 16, 2025). 2025. 
+
 [8] 
 B. M. Rafi and V. Tiwari, “[Figure, An x-ray of right forearm showing isolated ulna fracture Contributed by Vivek Tiwari],” www.ncbi.nlm.nih.gov, Aug. 
 https://www.ncbi.nlm.nih.gov/books/NBK574580/figure/article-137044.image.f3/ 08, 2023. 
